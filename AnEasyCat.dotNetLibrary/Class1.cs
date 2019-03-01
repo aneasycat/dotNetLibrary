@@ -8,5 +8,6 @@ namespace AnEasyCat.dotNetLibrary
 {
     public class Class1
     {
+
     }
 }
