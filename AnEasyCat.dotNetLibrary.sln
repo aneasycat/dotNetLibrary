@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnEasyCat.dotNetLibrary", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnEasyCat.Email", "AnEasyCat.Email\AnEasyCat.Email.csproj", "{53D46CE4-088E-41B1-ADA4-79B599D6C949}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnEasyCat.Office", "AnEasyCat.Office\AnEasyCat.Office.csproj", "{6EC9B530-7483-451B-9A22-C64751F5D049}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{53D46CE4-088E-41B1-ADA4-79B599D6C949}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53D46CE4-088E-41B1-ADA4-79B599D6C949}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53D46CE4-088E-41B1-ADA4-79B599D6C949}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EC9B530-7483-451B-9A22-C64751F5D049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EC9B530-7483-451B-9A22-C64751F5D049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EC9B530-7483-451B-9A22-C64751F5D049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EC9B530-7483-451B-9A22-C64751F5D049}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
